@@ -11,7 +11,26 @@
   <groupId>org.kualaftp</groupId>
   <artifactId>kualaftp</artifactId>
   <packaging>jar</packaging>
-  
+
+  <developers>
+    <developer>
+      <id>lombritz</id>
+      <name>Jaime Rojas</name>
+      <email>jaimitorojas@gmail.com</email>
+      <roles>
+        <role>developer</role>
+        <role>architect</role>
+      </roles>
+    </developer>
+    <developer>
+      <name>Roxanna Batista</name>
+      <email>roxmar0830@gmail.com</email>
+      <roles>
+        <role>developer</role>
+      </roles>
+    </developer>
+  </developers>
+
   <properties>
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
