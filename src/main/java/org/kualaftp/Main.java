@@ -1,9 +1,7 @@
 package org.kualaftp;
 
 import java.awt.EventQueue;
-
 import javax.swing.UIManager;
-
 import org.kualaftp.ui.MainFrame;
 
 public class Main {
