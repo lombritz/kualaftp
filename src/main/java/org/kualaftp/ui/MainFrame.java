@@ -290,7 +290,6 @@ public class MainFrame extends javax.swing.JFrame {
     }
 
 	private void initPopupMenus() {
-
         localTablePopupMenu = new JPopupMenu();
         JMenuItem uploadFileItem = new JMenuItem("Upload");
         uploadFileItem.addActionListener(new ActionListener() {
